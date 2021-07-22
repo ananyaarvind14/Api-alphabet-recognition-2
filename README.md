@@ -1,1 +1,1 @@
-# live-image-predection-
+# Project-Api-Alphabet-Detection
